@@ -1,0 +1,28 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+it was very helpful and reduced time 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+i don't know but it's very helpful
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros: it gives me more control
+cons: i do not know
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+because the files in google docs probably are not related
+
+How can you use the commands git log and git diff to view the history of files?
+
+first we go the folder and type git log to show the history of commits then we type git diff followed by two ids of the commits we want to compare
+
+How might using version control make you more confident to make changes that could break something?
+
+because i can go back to the previous code when ever i want
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+actually i do not know... may be for keep track of my flutter projects changes
