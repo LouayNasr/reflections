@@ -21,3 +21,7 @@ it helps but i do not know how excatly
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 the result is one branch that contains commits from both branches..to make it easier to merge
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+manual gives me more control..automatic is easier...
